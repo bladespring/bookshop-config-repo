@@ -1,2 +1,2 @@
 bookshop:
-  greeting: "Welcome to the production catalog from the config server"
+  greeting: "Welcome to the PRODUCTION catalog from the config server"
